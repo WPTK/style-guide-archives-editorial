@@ -1,0 +1,5 @@
+# Archived guides are binary files. Never convert their line endings: they are
+# stored as the exact downloaded bytes.
+*.pdf binary
+*.epub binary
+
